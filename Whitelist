@@ -1,0 +1,5 @@
+local WhitelistedHWIDs = {
+    "64958286-6576-4c04-80aa-3404b3c26483", -- Replace with actual HWID values
+    "HWID2",
+    "HWID3"
+}
