@@ -1,6 +1,6 @@
 local WhitelistedHWIDs = {
     "64958286-6576-4c04-80aa-3404b3c26483",  -- Example HWID values
-    "HWID2",
+    "37db20fe-5f55-414e-971d-dbf374ca7f5b",
     "HWID3"
 }
 return WhitelistedHWIDs
